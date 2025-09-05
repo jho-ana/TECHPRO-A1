@@ -20,7 +20,7 @@ public class seatworksix {
     lotteryCard2 [2][2] = 47;
 
     System.out.println(lotteryCard2 [0][0]);
-    System.out.println("_________");
+    System.out.println("___________");
     for (int i=0; i < 3; i++)
     {System.out.println(lotteryCard[2] [2]);
         
